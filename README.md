@@ -3,15 +3,14 @@
 <!-- blank line -->
 <br>
 <!-- blank line -->
-Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
 <br>
 Table of Contents
 <br>
-- [How to Create Your Profile?](#how-to-create-your-profile) <\> 
+- SQL <\> 
   <br>
-- [How to Customize Markdown files?](#how-to-customize-markdown-files) <\> 
+- Python <\> 
   <br>
-- [How to Create New Repository?](#how-to-create-new-repository)<\> 
+- Tableau <\> 
 <br>
 
 <img width = "900" alt="Some profile picture" scr="C:\Users\elald\Documents\Alyona\Career change\GitHub\profile picture.avif">
