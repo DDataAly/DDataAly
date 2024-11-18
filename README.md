@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Aly :relaxed: I'm a newbie to the world of coding, but I'm passionate about all things Data and hope to become a Data Engineer one day :beginner: 
 #### Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
-#### This is what I'm learning right now:
+#### This is what I'm learning right now 🌱:
 - SQL 
   <br>
 - Python 
@@ -9,7 +9,7 @@
 - Tableau 
 <br>
 
-<img width = "900" alt="Some profile picture" scr="C:\Users\elald\Documents\Alyona\Career change\GitHub\profile picture.avif">
+
 <!--
 **DDataAly/DDataAly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
