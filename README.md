@@ -5,7 +5,7 @@
 <!-- blank line -->
 Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
 
-
+<img width = "900" alt="Some profile picture" scr="https://unsplash.com/photos/a-man-in-a-space-suit-standing-on-a-spiral-staircase-9NfOoEqsH6c">
 <!--
 **DDataAly/DDataAly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
