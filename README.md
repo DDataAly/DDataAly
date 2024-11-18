@@ -3,7 +3,8 @@
 <!-- blank line -->
 <br>
 <!-- blank line -->
-### Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
+Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
+
 
 <!--
 **DDataAly/DDataAly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
