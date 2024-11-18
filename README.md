@@ -8,8 +8,11 @@ Planning to go the whole path one step at the time, and will add my projects alo
 Table of Contents
 <br>
 - [How to Create Your Profile?](#how-to-create-your-profile) <\> 
+  <br>
 - [How to Customize Markdown files?](#how-to-customize-markdown-files) <\> 
+  <br>
 - [How to Create New Repository?](#how-to-create-new-repository)<\> 
+<br>
 
 <img width = "900" alt="Some profile picture" scr="C:\Users\elald\Documents\Alyona\Career change\GitHub\profile picture.avif">
 <!--
