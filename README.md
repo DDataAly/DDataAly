@@ -4,10 +4,10 @@
 <br>
 <!-- blank line -->
 Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
-## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
-- [How to Create New Repository?](#how-to-create-new-repository)
+Table of Contents
+- [How to Create Your Profile?](#how-to-create-your-profile) <\> 
+- [How to Customize Markdown files?](#how-to-customize-markdown-files) <\> 
+- [How to Create New Repository?](#how-to-create-new-repository)<\> 
 
 <img width = "900" alt="Some profile picture" scr="C:\Users\elald\Documents\Alyona\Career change\GitHub\profile picture.avif">
 <!--
