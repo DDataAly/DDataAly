@@ -1,16 +1,17 @@
 ## Hi there 👋
-### I'm Aly :relaxed: I'm a newbie to the world of coding, but I'm passionate about all things Data and hope to become a Data Engineer one day :beginner: Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
+### I'm Aly :relaxed: I'm a newbie to the world of coding, but I'm passionate about all things Data and hope to become a Data Engineer one day :beginner: 
+#### Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
 <!-- blank line -->
 <br>
 <!-- blank line -->
 <br>
 Table of Contents
 <br>
-- SQL <\> 
+- SQL 
   <br>
-- Python <\> 
+- Python 
   <br>
-- Tableau <\> 
+- Tableau 
 <br>
 
 <img width = "900" alt="Some profile picture" scr="C:\Users\elald\Documents\Alyona\Career change\GitHub\profile picture.avif">
