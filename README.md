@@ -10,7 +10,7 @@
 - Tableau 
 <br> -->
 
-Hi 👋 My name is Ali
+Hi 👋 My name is Aly
 ====================
 
 Junior Data Analytics Engineer
