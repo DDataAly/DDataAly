@@ -1,6 +1,6 @@
 ## Hi there 👋
-### I'm Aly :relaxed: I'm a newbie to the world of coding, but I'm passionate about all things Data and hope to become a Data Engineer one day :beginner: 
-#### Planning to go the whole path one step at the time, and will add my projects along the way :sunrise_over_mountains:
+### I'm Aly :relaxed: I'm a newbie to the world of coding, but I'm passionate about all things Data and hope to become a Data Engineer one day :sunrise_over_mountains:  
+#### Planning to go the whole path one step at the time, and will add my projects along the way  :beginner:
 #### This is what I'm learning right now 🌱:
 - SQL 
   <br>
