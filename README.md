@@ -8,15 +8,17 @@
 - Python 
   <br>
 - Tableau 
+
+Self-starter and self-learner with the Engineering degree. I switched my career to Data Analytics this year, and I discovered that I really enjoy writing SQL scripts. Then I discovered that I enjoy writing Python programs, too. Now I'm working hard to build up my level in both Python and SQL, learn basics of Computer Science and become a true profi!
 <br> -->
 
 Hi 👋 My name is Aly
 ====================
 
-Junior Data Analytics Engineer
+Aspiring Data Engineer
 ------------------------------
 
-Self-starter and self-learner with the Engineering degree. I switched my career to Data Analytics this year, and I discovered that I really enjoy writing SQL scripts. Then I discovered that I enjoy writing Python programs, too. Now I'm working hard to build up my level in both Python and SQL, learn basics of Computer Science and become a true profi!
+Self-starter and self-learner with the Engineering degree and Data Analytics background, I break things and then I fix them - it's a vicious cycle! I'm driven to understand how artificial beings think (or will think), and what we can learn from them. My interests include various aspects of how we can approach this - from working with complex big data to discovering the beauty of algorithms. I started to code recently, and you can follow my progress here!
 
 * 🐍 My Python practice (https://github.com/DDataAly/Python)
 * 🖥️ My SQL practice (https://github.com/DDataAly/SQL)
