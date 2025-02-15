@@ -19,7 +19,7 @@ Junior Data Analytics Engineer
 Self-starter and self-learner with the Engineering degree. I switched my career to Data Analytics this year, and I discovered that I really enjoy writing SQL scripts. Then I discovered that I enjoy writing Python programs, too. Now I'm working hard to build up my level in both Python and SQL, learn basics of Computer Science and become a true profi!
 
 * 🌍  I'm based in London
-* 🖥️  My Python projects 
+* 🖥️  My Python projects (https://github.com/DDataAly/Python)
 * 🧠  I'm learning Python, SQL, Data Management, Computer Science Fundamentals
 * 🤝  I'm open to collaborating on Python/SQL projects
 * ⚡  Here to grow and learn - sometimes quick, sometimes slow, but never giving up!
