@@ -20,7 +20,7 @@ Self-starter and self-learner with the Engineering degree. I switched my career 
 
 * 🐍 My Python practice (https://github.com/DDataAly/Python)
 * 🖥️ My SQL practice (https://github.com/DDataAly/SQL)
-<--* 🤝  I'm open to collaborating on Python/SQL projects
+<!--* 🤝  I'm open to collaborating on Python/SQL projects
 * ⚡  Here to grow and learn - sometimes quick, sometimes slow, but never giving up!-->
 
 <!--
