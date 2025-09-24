@@ -18,7 +18,7 @@ Hello 👋 My name is Alyona
 Junior Developer & Data Engineer
 ------------------------------
 
-Welcome to my GitHub! I’m a self-starter with degrees in Finance and Engineering, and a background in Data Analytics within fintech. Here, I break things, fix them, and learn along the way. I enjoy decomposing complex problems and exploring data structures and algorithms. Always learning, always building — check out my projects!
+Welcome to my GitHub! I’m a self-starter with degrees in Finance and Engineering, and a background in Data Analytics within FinTech. Here, I break things, fix them, and learn along the way. I enjoy decomposing complex problems and exploring data structures and algorithms. Always learning, always building — check out my projects!
 
 <!--* 🤝  I'm open to collaborating on Python/SQL projects
 * ⚡  Here to grow and learn - sometimes quick, sometimes slow, but never giving up!-->
