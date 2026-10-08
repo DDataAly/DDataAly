@@ -15,10 +15,16 @@ Self-starter and self-learner with the Engineering degree. I switched my career 
 Hello 👋 My name is Alyona
 ====================
 
-Junior Data Engineer
-------------------------------
+<!--Junior Software Engineer
+------------------------------ -->
 
-Welcome to my GitHub! I’m a self-starter with degrees in Finance and Engineering, and a background in Data Analytics within FinTech. Here, I break things, fix them, and learn along the way. I enjoy decomposing complex problems and exploring data structures and algorithms. Always learning, always building — check out my projects!
+Welcome to my GitHub!
+I’m a junior software engineer with a year of professional experience building Python-based backend services and cloud systems.
+
+Recently, I’ve been spending a lot of time on a real-time Binance local order book project. It’s an ongoing project where there’s always something to improve — whether that’s the design, testing, error handling, performance, or simply finding a better way to structure the code.
+
+I use GitHub to build, experiment, and keep improving my engineering skills.
+
 
 <!--* 🤝  I'm open to collaborating on Python/SQL projects
 * ⚡  Here to grow and learn - sometimes quick, sometimes slow, but never giving up!-->
